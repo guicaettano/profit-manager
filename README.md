@@ -1,1 +1,1 @@
-# profit-manager
+# Profit Manager
